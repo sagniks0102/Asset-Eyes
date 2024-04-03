@@ -1,0 +1,54 @@
+.navbar img{
+    height: 55px;
+}
+.navbg{
+    background-color: #D5EAEE;
+}
+.landing{
+    background-image: url(imagef/Landing.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.landing .txt{
+    /* padding-top: 500px;
+    padding-left: 50px; */
+    padding: 70vh 10px 30px 5vw;
+}
+.landing .txt h1{
+    
+    font-weight: 700;
+    letter-spacing: 5px;
+    /* font-size: 64px; */
+}
+
+.secfull{
+    background-color: #383838;
+    color: #E3E3E3;
+}
+/* .line{
+    size: 5px;
+    width: 50px;
+    background-color: #E3E3E3;
+} */
+.enggCard p{
+    font-size: 20px;
+}
+.enggCard2 ul{
+    padding-bottom: 70px;
+}
+
+.footer{
+    background-color: #D5EAEE;
+}
+.footer img{
+    width: 250px;
+}
+.heighttxt{
+    /* height: 270px; */
+    height: 60%;
+}
+
+
+
+
